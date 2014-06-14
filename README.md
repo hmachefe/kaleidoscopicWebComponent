@@ -5,7 +5,9 @@ fps-meter-component
 TODO: This project aims to provide a kaleidoscope background (not configurable yet) as a special widgetized webcomponent
 
 > Maintained by [Hugo Machefer](https://github.com/hmachefe).
-> legacy (main) project [Xavier Bourry] http://www.webglacademy.com/#13
+
+``` legacy (main) project [Xavier Bourry] http://www.webglacademy.com/#13
+```
 
 ## Demo
 
