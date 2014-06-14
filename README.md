@@ -55,4 +55,5 @@ legacy (main) project [Xavier Bourry] (http://www.webglacademy.com/#13)
 ## License
 
 [MIT License](http://opensource.org/licenses/MIT)
+
 Special thanks to http://www.spacegoo.com/ (under which Xavier Bourry is in charge)
